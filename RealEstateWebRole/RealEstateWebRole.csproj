@@ -188,9 +188,8 @@
     <Content Include="bin\AWSSDK.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="bin\AWSSDK.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="bin\bin\AWSSDK.dll" />
+    <Content Include="bin\bin\AWSSDK.xml" />
     <Content Include="bin\bin\Microsoft.Json.dll" />
     <Content Include="bin\bin\RealEstateLibraries.dll" />
     <Content Include="bin\bin\System.Web.Providers.dll" />
@@ -222,6 +221,7 @@
     <Content Include="bin\RealEstateLibraries.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="bin\RealEstateLibraries.pdb" />
     <Content Include="bin\RealEstateWebRole.dll" />
     <Content Include="bin\RealEstateWebRole.pdb" />
     <Content Include="bin\ru\AjaxControlToolkit.resources.dll" />
@@ -236,6 +236,7 @@
     <Content Include="bin\Telerik.Web.UI.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="bin\Telerik.Web.UI.xml" />
     <Content Include="bin\tr-TR\AjaxControlToolkit.resources.dll" />
     <Content Include="bin\zh-CHS\AjaxControlToolkit.resources.dll" />
     <Content Include="bin\zh-CHT\AjaxControlToolkit.resources.dll" />
