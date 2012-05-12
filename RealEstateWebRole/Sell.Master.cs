@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using RealEstateWebRole.Admin;
+using System.Web.Security;
 
 namespace RealEstateWebRole
 {
@@ -21,6 +22,20 @@ namespace RealEstateWebRole
                 Response.Redirect("~/Public/SearchResult.aspx?SearchTerm=" + txtSearchBuy.Text + "&SearchType=" + 1);
             
            
+        }
+        public void Login_out(object sender, EventArgs e)
+        {
+
+
+            try
+            {
+                FormsAuthentication.SignOut();
+            }
+            finally
+            {
+
+            }
+
         }
     }
 }
