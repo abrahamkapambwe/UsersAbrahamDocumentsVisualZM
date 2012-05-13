@@ -23,7 +23,10 @@ namespace RealEstateWebRole.Account
             GetAuthenticationType();
             if (!string.IsNullOrWhiteSpace(FederationForms))
             {
-                ListDataBind();
+                if (!IsPostBack)
+                {
+                    ListDataBind();
+                }
             }
 
 
@@ -48,7 +51,7 @@ namespace RealEstateWebRole.Account
             int expired = 0;
             int incomplete = 0;
             int reported = 0;
-            var previewProperties = Search.GetPreviews();
+            var previewProperties = Search.GetPreviewsUser(FederationForms);
             foreach (var status in previewProperties)
             {
                 if (status.Active)
