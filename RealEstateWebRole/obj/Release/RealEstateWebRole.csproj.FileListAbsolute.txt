@@ -18,15 +18,12 @@ C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\EntityDataModel.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\obj\Release\RealEstateWebRole.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\obj\Release\RealEstateWebRole.pdb
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\AWSSDK.dll
-C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\obj\Release\RealEstateWebRole.csprojResolveAssemblyReference.cache
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\RealEstateLibraries.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\Microsoft.Json.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\System.Web.Providers.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\Telerik.Web.UI.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\AjaxControlToolkit.dll
-C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\Microsoft.Json.xml
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\RealEstateLibraries.pdb
-C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\Telerik.Web.UI.xml
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\ar\AjaxControlToolkit.resources.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\cs\AjaxControlToolkit.resources.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\de\AjaxControlToolkit.resources.dll
@@ -43,3 +40,5 @@ C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\ru\AjaxControlToolkit.res
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\tr-TR\AjaxControlToolkit.resources.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\zh-CHS\AjaxControlToolkit.resources.dll
 C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\AjaxControlToolkit.dll
+C:\UsersAbrahamDocumentsVisualZM\RealEstateWebRole\bin\bin\RealEstateLibraries.dll
