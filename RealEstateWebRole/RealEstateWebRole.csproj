@@ -188,8 +188,10 @@
     <Content Include="bin\AWSSDK.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="bin\bin\AjaxControlToolkit.dll" />
     <Content Include="bin\bin\AWSSDK.dll" />
     <Content Include="bin\bin\Microsoft.Json.dll" />
+    <Content Include="bin\bin\RealEstateLibraries.dll" />
     <Content Include="bin\bin\System.Web.Providers.dll" />
     <Content Include="bin\bin\Telerik.Web.UI.dll" />
     <Content Include="bin\cs\AjaxControlToolkit.resources.dll" />
